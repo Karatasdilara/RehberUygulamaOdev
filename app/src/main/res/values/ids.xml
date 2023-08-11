@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonKayit" type="id" />
+    <item name="editTextAd" type="id" />
+    <item name="editTextTelefon" type="id" />
+    <item name="imageViewRehber" type="id" />
+</resources>
